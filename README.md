@@ -12,6 +12,6 @@ The file digits.py contains the MLP Network implementation with PyTorch.
 The file helper.py contains visualization functions to visualise the results and the input images using Matplotlib
 
 
-The image below shows an hadnwriten number on the left and on the right show its class probability precited by the MLP network.
+The image below shows a hadnwriten number on the left and on the right shows its class probability precited by the MLP network.
 
 <img src="images/image-01.png">
