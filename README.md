@@ -1,2 +1,2 @@
-# Predict_Digital_Numbers
+# Predict Digital Numbers
 Predict handwritten numbers
